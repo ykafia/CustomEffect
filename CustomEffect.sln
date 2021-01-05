@@ -1,0 +1,11 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+VisualStudioVersion = 16.0.0.0
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEffect.Windows", "CustomEffect.Windows\CustomEffect.Windows.csproj", "{DF62CACE-5524-4CFE-98D3-079EFB68F16A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEffect.Game", "CustomEffect.Game\CustomEffect.Game.csproj", "{501AD254-0C44-4308-9454-EBCB4DA4A48B}"
+EndProject
+Global
+EndGlobal
